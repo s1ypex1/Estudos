@@ -1,15 +1,7 @@
-# Estudos - Curriculo Web
+# MEU REPOSITÓRIO DE ESTUDOS
 
-Este repositório contém meu primeiro projeto de currículo web, desenvolvido como **exercício prático** do curso de Front-End.
+Este lugar é onde eu guardo os **exercícios e desafios** dos meus cursos.
 
-O objetivo principal deste estudo foi aplicar os fundamentos de **HTML** para estruturação do conteúdo e, principalmente, **CSS** para estilização, layout e responsividade básica.
+É o meu **caderno digital** para praticar **HTML e CSS** e outras coisas que estou aprendendo.
 
-É um projeto em andamento que reflete meu aprendizado e evolução nas tecnologias web.
-
----
-
-**Tecnologias utilizadas:**
-* HTML5 (Estrutura do currículo)
-* CSS3 (Estilização e Layout)
-
-**Status:** Em desenvolvimento/Estudo contínuo.
+O projeto atual é um currículo web.
